@@ -1,8 +1,13 @@
 # Francesco Petriglia's Data Science Portfolio
+👋
 Welcome to my GitHub portfolio! I'm a data scientist with expertise in computational linguistics, natural language processing (NLP), machine learning (ML), healthcare, and language disorders. I combine my background in psychological sciences and speech therapy with data science to create impactful solutions.
 
 ## About Me
-Holding a Master's in Psychological Sciences and a Bachelor's in Speech Therapy, my career has been enriched by a strong foundation in neuropsychological rehabilitation, speech therapy, and healthcare applications of data science. Recently, I've joined a research team at the University of Udine, concentrating on the multi-level evaluation of narrative speech and applying NLP for transcript analysis. Complementing my academic and professional pursuits, I've engaged in programming courses to deepen my technical skills, particularly in Python, R, and data analysis, ensuring a robust toolkit for tackling complex data-driven challenges in healthcare.
+Holding a Master's in Psychological Sciences and a Bachelor's in Speech Therapy, my career has been enriched by a strong foundation in neuropsychological rehabilitation, speech therapy, and healthcare applications of data science. Recently, I've joined a research team at the University of Udine, concentrating on the multi-level evaluation of narrative speech and applying NLP for transcript analysis. Complementing my academic and professional pursuits, I've engaged in programming courses to deepen my technical skills, particularly in Python, R, and data analysis, ensuring a robust toolkit for tackling complex data-driven challenges in healthcare. 🔬 Currently involved in a research project @UniUD. 📊 Focusing on multilevel narrative speech evaluation & applying NLP for transcript analysis.
+
+## Social
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/francesco-petriglia/])
+<a href="https://www.linkedin.com/in/francesco-petriglia" rel="nofollow"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
 ## Projects - Computational Linguistics in Healthcare
 #### Talkidz - Childhood Language Assessment

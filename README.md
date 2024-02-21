@@ -6,12 +6,16 @@ Welcome to my GitHub portfolio! I'm a data scientist with expertise in computati
 Holding a Master's in Psychological Sciences and a Bachelor's in Speech Therapy, my career has been enriched by a strong foundation in neuropsychological rehabilitation, speech therapy, and healthcare applications of data science. Recently, I've joined a research team at the University of Udine, concentrating on the multi-level evaluation of narrative speech and applying NLP for transcript analysis. Complementing my academic and professional pursuits, I've engaged in programming courses to deepen my technical skills, particularly in Python, R, and data analysis, ensuring a robust toolkit for tackling complex data-driven challenges in healthcare. 🔬 Currently involved in a research project @UniUD. 📊 Focusing on multilevel narrative speech evaluation & applying NLP for transcript analysis.
 
 ## Social
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/francesco-petriglia/])
 <a href="https://www.linkedin.com/in/francesco-petriglia" rel="nofollow"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+[![@f_petriglia](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/f_petriglia)
 
-## Projects - Computational Linguistics in Healthcare
-#### Talkidz - Childhood Language Assessment
+## Projects
+### Talkidz - Childhood Language Assessment
 The Talkidz project is a software tool designed to automate the assessment of expressive language disorders in children, focusing on phonetic-phonological, morphosyntactic, and lexical indices. It utilizes advanced NLP techniques to analyze children's speech, offering a comprehensive evaluation of their language abilities. By quantifying phonetic-phonological accuracy, understanding morphosyntactic complexity, and assessing lexical diversity and usage, Talkidz provides a detailed insight into various aspects of language development. This tool is pivotal for researchers, clinicians, and educators, offering a reliable and efficient method for identifying language disorders early and accurately. The Talkidz software, initially crafted in Visual Basic (VB), has undergone a transformation to Python. This shift was strategically chosen to harness the capabilities of existing libraries and advanced machine learning (ML) techniques. Currently, it's transitioning further to become an online tool, enhancing accessibility and utility for a wider audience.
+
+![Alt text]([https://drive.google.com/file/d/1slnnt6FB3lnvW79YkRk951ft36g1EDcd/view?usp=sharing] "Optional title")
+### Sugar, Salt & Pepper-Humanoid Robotics for Autism
+In this research, the focus is on utilizing Pepper, a humanoid robot, for assisting individuals with autism. This involves programming Pepper to interact and communicate effectively, aiming to enhance social interaction skills and support therapeutic sessions. The work is part of a broader data science approach, integrating robotics with therapeutic needs to improve outcomes for autistic individuals.
 
 ## Skills
 Languages: Python, R, Matlab, Visual Basic

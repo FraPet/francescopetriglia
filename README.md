@@ -9,7 +9,7 @@ Holding a Master's in Psychological Sciences and a Bachelor's in Speech Therapy,
 <a href="https://www.linkedin.com/in/francesco-petriglia" rel="nofollow"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 [![@f_petriglia](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/f_petriglia)
 
-## Projects
+## Research Projects
 ### Sugar, Salt & Pepper-Humanoid Robotics for Autism
 <p align="center">
 <img src="https://github.com/FraPet/francescopetriglia/assets/38542557/c258f254-968e-4583-b867-92555f25637b" width="600"/>
@@ -37,15 +37,16 @@ This study focuses on the narrative skills of children with Autism Spectrum Diso
 * **Technologies**: NLP, ML, Data Analysis, Statistics
 * **Tools**: PsychoPy, SPSS, GitHub, Jupyter Notebooks
 
-## Publications & Presentations
-My work has been published in conferences and journals, reflecting my commitment to advancing research in the intersection of technology and healthcare:
+## Publications & Theses
+* **Ontologies and Open Data for Enriching Personalized Social Moments in Human Robot Interaction**. Presented at the 30th ACM Conference on User Modeling Adaptation and Personalization, July 2022. This publication discusses the utilization of ontologies and open data to enhance the interactivity and personalized experiences in human-robot interaction.
+* **Sugar, Salt & Pepper-Humanoid Robotics for Autism**. A conference paper for the 2021 Joint ACM Conference on Intelligent User Interfaces Workshops. It details the application of humanoid robotics, specifically the Pepper robot, in supporting individuals with autism, focusing on improving social interactions and therapeutic outcomes.
+* **Sentiment Analysis and Natural Language Processing in the Diagnosis and Evaluation of Language Disorders in Children with Autism Spectrum Disorder: A Pilot Study**. Co-supervised thesis for the Speech Therapy Degree at the University of Turin. It examines the potential of sentiment analysis and NLP in diagnosing and evaluating language disorders in children with autism.
+* **Talkidz – Software for Infant Language Evaluation. Morphosyntactic Data of a Normative Sample**. Co-supervised thesis for the Speech Therapy Degree at the University of Turin. This work contributes to the development of the Talkidz software, focusing on the morphosyntactic analysis of child language.
+* **Talkidz – Software for Infant Language Evaluation. Phonetic-Phonological Data of a Normative Sample**. Tutoring for the Speech Therapy Degree at the University of Turin. This thesis contributes to the phonetic-phonological components of the Talkidz software.
+* **The Role of Praxic Abilities in Semantic-Lexical Processing: An Experimental Study with High and Low Body-Object Interaction Words**. Tutoring for the Speech Therapy Degree at the University of Turin. It explores the relationship between praxic abilities and lexical processing.
+* **Development of Quantitative Techniques and Signal and Image Analysis in Speech Therapy**. Tutoring for the Master's Degree in Biomedical Engineering at the Polytechnic University of Turin. This thesis focuses on the application of quantitative techniques and analysis in speech therapy.
+* **Implementation of a Software for Language Analysis in Python**. Tutoring for the Computer Science Degree at the University of Turin. It details the development of a language analysis tool using Python, enhancing the capabilities for assessing and understanding language disorders.
 
-* **Ontologies and Open Data for Enriching Personalized Social Moments in Human Robot Interaction.** Presented at the 30th ACM Conference on User Modeling Adaptation and Personalization, July 2022. This work discusses the innovative use of ontologies and open data to enhance human-robot interactions, showcasing my expertise in applying advanced technologies to improve social experiences.
-* **Sugar, Salt & Pepper-Humanoid Robotics for Autism**. A conference paper presented at the 2021 Joint ACM Conference on Intelligent User Interfaces Workshops, focusing on the application of humanoid robotics to support individuals with autism. This paper highlights my interest in leveraging technology to address complex challenges in autism therapy.
 
-### Thesis Supervision
-I have also supervised several theses that delve into the application of NLP and ML in healthcare:
 
-* Sentiment Analysis and Natural Language Processing in the Diagnosis and Evaluation of Language Disorders in Children with Autism Spectrum Disorder: A Pilot Study. This thesis explores how sentiment analysis and NLP can be used to diagnose and evaluate language disorders, demonstrating the potential of these technologies in autism research.
-* Talkidz – Software for Infant Language Evaluation. Morphosyntactic Data of a Normative Sample. Supervised research focusing on the morphosyntactic analysis of child language, contributing to the development of the Talkidz software.
-* Development of Quantitative Techniques and Signal and Image Analysis in Speech Therapy. This work underlines my commitment to integrating quantitative methods and technology in speech therapy, enhancing diagnostic and therapeutic approaches.
+
